@@ -1,0 +1,14 @@
+fish
+	omf
+	fundle
+	plugins i want
+		bax
+		pj
+
+zsh
+
+vim
+	vundle
+
+nvim
+

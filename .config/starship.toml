@@ -1,0 +1,100 @@
+add_newline = true
+
+[aws]
+symbol = "  "
+
+[character]
+success_symbol = "[⋊>](bold green) "
+error_symbol = "[](bold red)"
+
+[conda]
+symbol = " "
+
+[dart]
+symbol = " "
+
+[directory]
+truncation_length = 8
+truncation_symbol = "…/"
+style = "bold cyan"
+read_only = " "
+home_symbol = " ~"
+
+[docker_context]
+symbol = " "
+
+[elixir]
+symbol = " "
+
+[elm]
+symbol = " "
+
+[git_branch]
+symbol = " "
+
+[git_commit]
+tag_symbol = "笠"
+
+[git_status]
+untracked = ""
+deleted = ""
+
+[golang]
+symbol = " "
+
+[hg_branch]
+symbol = " "
+
+[java]
+symbol = " "
+
+[julia]
+symbol = " "
+
+[memory_usage]
+symbol = " "
+
+[nim]
+symbol = " "
+
+[nix_shell]
+symbol = " "
+
+[nodejs]
+symbol = " "
+
+[package]
+symbol = " "
+
+[perl]
+symbol = " "
+
+[php]
+symbol = " "
+
+[python]
+symbol = " "
+
+[ruby]
+symbol = " "
+
+[rust]
+symbol = " "
+
+[scala]
+symbol = " "
+
+[shell]
+fish_indicator = " "
+
+[shlvl]
+symbol = " "
+
+[status]
+symbol = ""
+style = "bold red"
+disabled = true
+
+[swift]
+symbol = "ﯣ "
+

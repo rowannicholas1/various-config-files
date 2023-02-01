@@ -1,0 +1,21 @@
+classic: false
+blocks:
+  - permission
+  - user
+  - group
+  - size
+  - date
+  - name
+color: 
+  when: auto
+  theme: default 
+dereference: false
+icons: 
+  when: auto
+  theme: fancy
+layout: oneline
+sorting: 
+ column: name
+no-symlink: false
+total-size: false
+symlink-arrow: ⇒
