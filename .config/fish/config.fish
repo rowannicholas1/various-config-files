@@ -70,17 +70,15 @@ function backup
 end
 
 alias vi="nvim"
-alias sshmyiphone="ssh mobile@192.168.68.109"
-alias sshmyipad="ssh mobile@192.168.68.155"
 alias checkra1n="/Applications/checkra1n.app/Contents/MacOS/checkra1n"
 alias handbrake="HandBrakeCLI"
 alias browsh="docker run --rm -it browsh/browsh"
 alias ls="lsd"
 alias lsa="ls -A"
 alias la="ls -A"
-alias l='ls -l'
-alias lla='ls -la'
-alias lt='ls --tree'
+alias l="ls -"
+alias lla="ls -la"
+alias lt="ls --tree"
 alias ytdl="youtube-dl"
 alias ytplay="~/bin/ytplay.sh"
 alias dlp="yt-dlp"
